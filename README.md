@@ -20,7 +20,9 @@
 7. Finally, select lines 552 - 555 or 557 - 560 or 562 - 566.
 
 > 552 - 555 : Playing Violin
+> 
 > 557 - 560 : Playing Kalimba
+> 
 > 562 - 566 : Playing both Violin and Kalimba
 
 
