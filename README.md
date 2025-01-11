@@ -17,7 +17,7 @@
 
 6. Fourth, select lines 462 to 548 and press Shift + Enter.
 
-7. Finally, select lines 552 - 555 or 557 - 560 or 562 - 566.
+7. Finally, select lines 552 - 555 or 557 - 560 or 562 - 566 and press Shift + Enter.
 
 > 552 - 555 : Playing Violin
 > 
