@@ -5,7 +5,7 @@
 
 # How to play
 
-1. Double-click 'Bach_Brandenburgisches Concert No.3 in G dur 3악장_ 2020203011 배주환.scd' to launch it.
+1. Double-click '[ Violin + Kalimba ] Bach_Brandenburgisches Concert No.3 in G dur 3악장_ 2020203011 배주환.scd' to launch it.
 
 2. Boot the server in the Server tab.
 
